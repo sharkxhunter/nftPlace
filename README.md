@@ -1,7 +1,3 @@
-# NFT Marketplace
-
-![locker-room](static/locker-room.png)
-
 Contracts herein define a minimal general trustless marketplace for any ERC-721 or ERC-1155 implementation. They support:
 
 - batch trading
